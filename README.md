@@ -24,9 +24,9 @@ Ensure you have the Xlib header files installed:
 git clone [https://github.com/yourusername/swm.git](https://github.com/yourusername/swm.git)
 cd swm
 make
-sudo make install```
+sudo make install
 
-### Default key settings
+## Default key settings
 Mod(Windows Key) + Shift + Enter [Launch Terminal(st)]
 Mod + Shift + Q [Quit SWM]
 Mod + Shift + C [kill active window]
@@ -39,3 +39,5 @@ Mod + J / K [Cycle Focus (Down / Up)]
 /* Change Colors */
 #define COL_ACCENT "#BD93F9" // Dracula Purple
 After editing, recompile with make && sudo make install.
+
+
