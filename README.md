@@ -27,11 +27,11 @@ SWM is a minimalist, dynamic tiling window manager for X11, written in C. It is 
   sudo make install
 
 ## Default key settings
-Mod(Windows Key) + Shift + Enter [Launch Terminal(st)]
-Mod + Shift + Q [Quit SWM]
-Mod + Shift + C [kill active window]
-Mod + H / L [Shrink / Expand Master Area]
-Mod + J / K [Cycle Focus (Down / Up)]
+Mod(Windows Key) + Shift + Enter : Launch Terminal(st)
+Mod + Shift + Q : Quit SWM
+Mod + Shift + C : kill active window
+Mod + H / L : Shrink / Expand Master Area
+Mod + J / K : Cycle Focus (Down / Up)
 
 ## ⚙️ CustomizationCustomization is done by editing config.h.C/* Change Gaps */
 #define GAPS 15
