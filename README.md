@@ -11,7 +11,7 @@ SWM is a minimalist, dynamic tiling window manager for X11, written in C. It is 
 - **Lightweight**: Zero dependencies other than `libX11`.
 - **Keyboard-Centric**: Fully controllable via user-defined keybindings.
 
-## 📥 Installation
+  ## 📥 Installation
   
   ## Prerequisites
   Ensure you have the Xlib header files installed:
