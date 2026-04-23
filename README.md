@@ -39,7 +39,7 @@ SWM is a minimalist, dynamic tiling window manager for X11, written in C. It is 
   
   /* Change Colors */
   #define COL_ACCENT "#BD93F9" // Dracula Purple
-  After editing, recompile with :
+After editing, recompile with :
 
 ```make
 make && sudo make install.
