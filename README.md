@@ -13,13 +13,13 @@ SWM is a minimalist, dynamic tiling window manager for X11, written in C. It is 
 
 ## 📥 Installation
 
-### Prerequisites
+## Prerequisites
 Ensure you have the Xlib header files installed:
 - **Arch Linux:** `sudo pacman -S libx11`
 - **Ubuntu/Debian:** `sudo apt install libx11-dev`
 - **Fedora:** `sudo dnf install libX11-devel`
 
-### Build from Source
+## Build from Source
 ```bash
 git clone [https://github.com/yourusername/swm.git](https://github.com/yourusername/swm.git)
 cd swm
