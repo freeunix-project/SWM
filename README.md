@@ -24,10 +24,9 @@ Ensure you have the Xlib header files installed:
 git clone [https://github.com/yourusername/swm.git](https://github.com/yourusername/swm.git)
 cd swm
 make
-sudo make install
+sudo make install```
 
-
-### default key settings
+### Default key settings
 Mod(Windows Key) + Shift + Enter [Launch Terminal(st)]
 Mod + Shift + Q [Quit SWM]
 Mod + Shift + C [kill active window]
