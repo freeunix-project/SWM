@@ -33,7 +33,7 @@ Mod + Shift + C [kill active window]
 Mod + H / L [Shrink / Expand Master Area]
 Mod + J / K [Cycle Focus (Down / Up)]
 
-⚙️ CustomizationCustomization is done by editing config.h.C/* Change Gaps */
+## ⚙️ CustomizationCustomization is done by editing config.h.C/* Change Gaps */
 #define GAPS 15
 
 /* Change Colors */
