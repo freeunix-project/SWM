@@ -25,3 +25,18 @@ git clone [https://github.com/yourusername/swm.git](https://github.com/yourusern
 cd swm
 make
 sudo make install
+
+
+### default key settings
+Mod(Windows Key) + Shift + Enter [Launch Terminal(st)]
+Mod + Shift + Q [Quit SWM]
+Mod + Shift + C [kill active window]
+Mod + H / L [Shrink / Expand Master Area]
+Mod + J / K [Cycle Focus (Down / Up)]
+
+⚙️ CustomizationCustomization is done by editing config.h.C/* Change Gaps */
+#define GAPS 15
+
+/* Change Colors */
+#define COL_ACCENT "#BD93F9" // Dracula Purple
+After editing, recompile with make && sudo make install.
